@@ -36,14 +36,14 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/shrey-jenya/count.svg?"  />
+  <img autoplay loop src="https://profile-counter.glitch.me/shrey-jenya/count.svg?"  />
 </div>
 
 ###
 
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjMzY2xpcDN3dGw0azlvOWZtbGR4eTF1Z2VyNTdtcXhqcG05dTIyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
+  <video height="200" autoplay loop src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjMzY2xpcDN3dGw0azlvOWZtbGR4eTF1Z2VyNTdtcXhqcG05dTIyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
 </div>
 
 ###
