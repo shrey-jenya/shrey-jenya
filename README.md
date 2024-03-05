@@ -43,7 +43,7 @@
 
 
 <div align="center">
-  <video height="200" autoplay loop src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjMzY2xpcDN3dGw0azlvOWZtbGR4eTF1Z2VyNTdtcXhqcG05dTIyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
+  <img height="200" autoplay loop src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjMzY2xpcDN3dGw0azlvOWZtbGR4eTF1Z2VyNTdtcXhqcG05dTIyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
 </div>
 
 ###
